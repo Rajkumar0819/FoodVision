@@ -42,7 +42,6 @@ We created a Streamlit app to allow users to upload their own images and get pre
 
     ```
     pip install -r requirements.txt
-    Run the Streamlit App
     ```
 3. **Streamlit interface**
     ```
