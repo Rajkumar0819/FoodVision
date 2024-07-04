@@ -35,7 +35,8 @@ We created a Streamlit app to allow users to upload their own images and get pre
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/rajkumar/deep-learning-image-classification.git](https://github.com/Rajkumar0819/FoodVision.git
+   https://github.com/Rajkumar0819/FoodVision.git
+   ```
    
 2. **Install Dependencies**
 
