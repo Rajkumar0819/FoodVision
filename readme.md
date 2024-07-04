@@ -35,7 +35,7 @@ We created a Streamlit app to allow users to upload their own images and get pre
 
 1. **Clone the Repository**
    ```bash
-   https://github.com/Rajkumar0819/FoodVision.git
+   git clone https://github.com/Rajkumar0819/FoodVision.git
    ```
    
 2. **Install Dependencies**
